@@ -7,8 +7,3 @@ Update:
 kubectl -n impact-lab delete jobs ota-uk-v
 helm upgrade ota-uk-v ota-uk-v
 ```
-
-
-
-
-          # command: ["python", {{ .Values.script }} ]
