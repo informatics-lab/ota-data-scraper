@@ -1,0 +1,2 @@
+image: informaticslab/pangeo-notebook:0.5.4
+script: /s3/impactlab-ota/uk-v.py

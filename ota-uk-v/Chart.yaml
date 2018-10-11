@@ -1,0 +1,7 @@
+apiVersion: v1
+name: ota-uk-v
+version: 0.0.1
+description: Runs a script to get uk-v data for OTA
+maintainers:
+  - name: Theo McCaie
+    email: theo.mccaie@informaticslab.co.uk
